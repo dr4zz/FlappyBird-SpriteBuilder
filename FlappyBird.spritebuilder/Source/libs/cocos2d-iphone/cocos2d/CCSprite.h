@@ -48,9 +48,9 @@ typedef struct CCSpriteTexCoordSet {
 #pragma mark CCSprite
 
 #define CCSpriteIndexNotInitialized 0xffffffff 	/// CCSprite invalid index on the CCSpriteBatchode
-
+//http://en.wikipedia.org/wiki/Sprite_(computer_graphics)
 /** 
- * CCSprite is a 2D image ( http://en.wikipedia.org/wiki/Sprite_(computer_graphics) )
+ * CCSprite is a 2D image (  )
  *
  * CCSprite can be created with an image, or with a sub-rectangle of an image.
  *
